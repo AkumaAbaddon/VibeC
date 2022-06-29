@@ -1,3 +1,3 @@
-avtr_d9c487db-0b17-43f2-b082-6bd54d39c0b4 //Quest
-avtr_d3c1921e-f857-45e6-9c0b-2622f9c5046c //Visual
-avtr_fe7e261c-0a4a-403d-9279-46d8982a637c //Corrupted
+avtr_d9c487db-0b17-43f2-b082-6bd54d39c0b4
+avtr_d3c1921e-f857-45e6-9c0b-2622f9c5046c
+avtr_fe7e261c-0a4a-403d-9279-46d8982a637c
